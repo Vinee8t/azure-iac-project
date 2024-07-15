@@ -1,7 +1,10 @@
 Automated Web Hosting Solution with single click replication to UAT And Prod Environment : 
-To build an automated web hosting solution using Azure Resource Manager (ARM) templates, we'll create a setup that includes virtual machine-based web servers, an Azure Load Balancer, and a method for deploying this setup to Development, UAT (test), and Production environments using environment-specific parameters.
+To build an automated web hosting solution using Azure Resource Manager (ARM) templates,
+we'll create a setup that includes virtual machine-based web servers, an Azure Load Balancer,
+and a method for deploying this setup to Development, UAT (test), and Production environments using environment-specific parameters.
 Objective:
-Create an automated web hosting solution with single-click deployment to multiple environments (Development, UAT, Production) using ARM templates. The solution includes:
+Create an automated web hosting solution with single-click deployment to multiple environments (Development, UAT, Production) using ARM templates.
+The solution includes:
 •	Virtual machines for hosting web servers.
 •	An Azure Load Balancer to distribute traffic.
 •	Environment-specific parameterization for easy replication and configuration management.
